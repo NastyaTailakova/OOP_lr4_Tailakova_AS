@@ -1,0 +1,10 @@
+D:\oop\4lr_oop\4lr\4lr\obj\Debug\4lr.csproj.AssemblyReference.cache
+D:\oop\4lr_oop\4lr\4lr\obj\Debug\_4lr.Form1.resources
+D:\oop\4lr_oop\4lr\4lr\obj\Debug\_4lr.Properties.Resources.resources
+D:\oop\4lr_oop\4lr\4lr\obj\Debug\4lr.csproj.GenerateResource.cache
+D:\oop\4lr_oop\4lr\4lr\obj\Debug\4lr.csproj.CoreCompileInputs.cache
+D:\oop\4lr_oop\4lr\4lr\bin\Debug\4lr.exe.config
+D:\oop\4lr_oop\4lr\4lr\bin\Debug\4lr.exe
+D:\oop\4lr_oop\4lr\4lr\bin\Debug\4lr.pdb
+D:\oop\4lr_oop\4lr\4lr\obj\Debug\4lr.exe
+D:\oop\4lr_oop\4lr\4lr\obj\Debug\4lr.pdb
